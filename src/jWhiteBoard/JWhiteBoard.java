@@ -42,7 +42,7 @@ public class JWhiteBoard extends ReceiverAdapter implements ActionListener, Chan
     protected boolean              send_own_state_on_merge=true;
     private final                  List<Address> members=new ArrayList<Address>();
 
-
+//hello
     
     /**
      * Constructor 1
