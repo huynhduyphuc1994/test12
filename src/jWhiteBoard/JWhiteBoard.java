@@ -67,6 +67,15 @@ public class JWhiteBoard extends ReceiverAdapter implements ActionListener, Chan
         this.use_unicasts=use_unicasts;
         if(no_channel)
             return;
+        //change
+        
+        
+        
+        
+        
+        
+        
+        
 
         channel=new JChannel(props);
         if(gen != null)

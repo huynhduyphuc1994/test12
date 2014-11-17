@@ -24,6 +24,11 @@ public class Chat extends ReceiverAdapter {
     
     
     
+    
+    
+    
+    
+    
 
     /** Method called from other app, injecting channel */
     public void start(JChannel ch) throws Exception {
